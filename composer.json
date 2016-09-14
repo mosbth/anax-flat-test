@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mos/anax-flat": "^1.0",
+        "michelf/php-smartypants": "1.6.x-dev"
+    }
+}
